@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Your Name 👋</h1>
+<h1 align="center">Hi there, I'm Anujan 👋</h1>
 
 <p align="center">
   I'm currently pursuing <b>BSc (Hons)</b> in <b>Your Major</b> at <b>Your University</b>, 
