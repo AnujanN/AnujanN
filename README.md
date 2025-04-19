@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Anujan 👋</h1>
 
 <p align="center">
-  I'm currently pursuing <b>BSc (Hons)</b> in <b>Your Major</b> at <b>Your University</b>, 
-  with a keen interest in <b>Your Interests</b>. 📚
+  I’m currently pursuing BSc (Hons) in <b>Artificial Intelligence</b> at the <b>University of Moratuwa</b>, 
+  with a keen interest in <b>Machine Learning and Data Science.</b> 📚
 </p>
 
 ---
