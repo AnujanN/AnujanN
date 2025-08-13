@@ -32,5 +32,5 @@
 
 ## 🌐 Connect with Me
 
-- 📫 [Your Email](anujananu812@gmail.com)
+- 📫 [Email](anujananu812@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/anujan-nanthakumar-8b38a1267/)
