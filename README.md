@@ -2,7 +2,7 @@
 
 <p align="center">
   I’m currently pursuing BSc (Hons) in <b>Artificial Intelligence</b> at the <b>University of Moratuwa</b>, 
-  with a keen interest in <b>Machine Learning and Data Science.</b> 📚
+  with a keen interest in <b>Machine Learning, Data Science, and Multi-Agent Systems.</b> 📚
 </p>
 
 ---
@@ -13,6 +13,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🤖 Agent Frameworks:
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white)
 
 ### 📚 Machine Learning Libraries & Frameworks:
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
