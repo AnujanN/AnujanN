@@ -19,13 +19,15 @@
 
 ## 🛠️ Technical Stack
 
-| Area | Stack & Tools |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, Java, C, SQL |
-| **AI & Agent Systems** | LangChain, LangGraph, CrewAI, AutoGen, Amazon Bedrock |
-| **Machine Learning & DL** | PyTorch, TensorFlow, Keras, Scikit-Learn |
-| **Data & Vector Databases** | Pandas, NumPy, Typesense, PostgreSQL |
-| **DevOps & Infrastructure** | Docker, Kubernetes, AWS, `uv`, Git, Linux/WSL |
+| **Programming Languages** | Python, Java |
+| **AI, LLM & Agent Frameworks** | CrewAI, Langchain, Langgraph, Hugging Face, NLTK |
+| **Machine Learning & DL** | PyTorch, TensorFlow, Keras, Scikit-learn, BERT |
+| **Data Science & Analytics** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Backend & Frontend** | FastAPI, React, HTML |
+| **Databases & Search** | PostgreSQL, MongoDB, Redis, Typesense, Firebase |
+| **MLOps, DevOps & Environment** | Docker, MLflow, DVC, Git, Linux/WSL (Ubuntu) |
 
 ---
 
